@@ -1,0 +1,132 @@
+[2021-11-18 01:07:31:078] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-18 01:07:31:079] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-18 01:07:31:079] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-18 01:07:31:080] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-18 01:07:31:081] [INFO ] [method:com.solvdeducation.airport.Out.main(Out.java:69)]
+com.solvdeducation.generics.Hangar@77b52d12
+
+[2021-11-18 01:08:11:168] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-18 01:08:11:172] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-18 01:08:11:173] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-18 01:08:11:173] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-18 01:08:11:174] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-18 01:08:11:176] [INFO ] [method:com.solvdeducation.airport.Out.main(Out.java:69)]
+com.solvdeducation.generics.Hangar@614c5515
+
+[2021-11-18 01:09:32:320] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-18 01:09:32:323] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-18 01:09:32:323] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-18 01:09:32:324] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-18 01:09:32:324] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-18 01:09:32:326] [INFO ] [method:com.solvdeducation.airport.Out.main(Out.java:70)]
+com.solvdeducation.generics.Hangar@614c5515
+
+[2021-11-18 12:47:21:194] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-18 12:47:21:229] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-18 12:47:21:230] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-18 12:47:21:230] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-18 12:47:21:231] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-18 12:47:21:233] [INFO ] [method:com.solvdeducation.airport.Out.main(Out.java:70)]
+com.solvdeducation.generics.Hangar@3f2a3a5
+
+[2021-11-18 12:50:00:102] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-18 12:50:00:105] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-18 12:50:00:105] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-18 12:50:00:105] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-18 12:50:00:105] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-18 12:50:00:106] [INFO ] [method:com.solvdeducation.airport.Out.main(Out.java:70)]
+com.solvdeducation.generics.Hangar@3f2a3a5
+
+[2021-11-18 12:50:00:110] [ERROR] [method:com.solvdeducation.airport.Out.main(Out.java:86)]
+com.solvdeducation.generics.Cars@6be46e8f
+
+[2021-11-18 12:53:04:734] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-18 12:53:04:737] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-18 12:53:04:738] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-18 12:53:04:738] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-18 12:53:04:738] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-22 14:29:43:456] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-22 14:29:43:475] [INFO ] [method:com.solvdeducation.airport.Checkindesk.baggage(Checkindesk.java:16)]
+Weight input
+
+[2021-11-22 14:29:43:476] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Flights.flight(Flights.java:22)]
+Arrival city
+
+[2021-11-22 14:29:43:476] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Tickets.tickets(Tickets.java:21)]
+Choose Class
+
+[2021-11-22 14:29:43:476] [INFO ] [method:com.solvdeducation.airport.employee.Pilot.flights(Pilot.java:17)]
+Person flight hours
+
+[2021-11-22 14:30:15:231] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testage(Buyer.java:16)]
+Age input
+
+[2021-11-22 14:30:15:235] [ERROR] [method:com.solvdeducation.airport.Out.main(Out.java:39)]
+Buyer age to low
+
+[2021-12-02 11:19:46:197] [INFO ] [method:com.solvdeducation.airport.ticketReserve.Buyer.testAge(Buyer.java:16)]
+Age input
+
+[2021-12-02 11:19:46:260] [ERROR] [method:com.solvdeducation.airport.Out.main(Out.java:39)]
+Buyer age to low
+
